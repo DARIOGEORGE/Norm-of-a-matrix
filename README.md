@@ -41,11 +41,14 @@ print(Norm_of_matrix)
 ## Output:
 ### 1-Norm of a Matrix
 
+![1](https://user-images.githubusercontent.com/118704873/214096953-ed2dbee1-4fed-4551-ab2f-5ddb4b536161.png)
 
 ### 2-Norm of a Matrix
 
+![2](https://user-images.githubusercontent.com/118704873/214097033-200b24cc-b5f6-4ff6-a259-c06e18ba8057.png)
 
 ### Infinity Norm of a Matrix
+![3](https://user-images.githubusercontent.com/118704873/214097066-76bed8d8-ccd1-4bbf-8702-4e4dbf8f6f9f.png)
 
 
 ## Result
